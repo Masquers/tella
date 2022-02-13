@@ -48,10 +48,6 @@ enableRobotsTXT = true
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
-  
-  [params.social_media]
-    # Link to a Discord server
-    discord = ""
 
 [menu]
 
