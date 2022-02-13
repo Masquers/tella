@@ -18,7 +18,9 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  [params.main_section]
+    identifier = "blog"
+    title = "Blog"
 
   [params.logo]
     main = "img/logo/logo.svg"
