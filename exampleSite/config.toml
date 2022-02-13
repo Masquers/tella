@@ -21,6 +21,7 @@ enableRobotsTXT = true
   [params.main_section]
     identifier = "blog"
     title = "Blog"
+    collective_title = "Posts"
 
   [params.logo]
     main = "img/logo/logo.svg"
